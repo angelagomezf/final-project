@@ -57,7 +57,9 @@ Finally, I have decided to use **h2o** since it is the best tool for rapidly tur
 ## Results
 ---
 These are the results from the models I have tried:
+
 ![alt](images/metrics.png)
+
 We can see that the most accurate model is the last one: **Gradient Boosting Regressor**, which is the one that was found by h2o.
 
 Here is the model performance summary done by h2o:
