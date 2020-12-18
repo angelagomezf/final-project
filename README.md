@@ -76,4 +76,4 @@ Here is the model performance summary done by h2o:
 3. If I would have been able to scrap the reviews from Vivino, I would have liked to make a comparison between the reviews from the website (which are given by users who might or might not be experts in the field) and renowned sommelier's reviews. Sadly, this idea couldn't be executed in the time frame given, but it remains pending for the future.
 
 ## Last but not least
-![alt](images/quote.png)
+![alt](images/quote.jpg)
