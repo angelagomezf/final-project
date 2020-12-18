@@ -13,7 +13,7 @@ I can't say I'm an expert in wines. But despite my lack of knowledge, I do consi
 (On the left I'm visiting Valle de Guadalupe with my friends, and on the right I'm wine tasting in Binifadet with my mum).
 ![alt](images/experiences.jpg)
 
-Moreover, after watching [Disrupting Wine](https://www.imdb.com/title/tt12645184/) (a documentary about the founder of Vivino), I became very interested and curious about the wine industry. Which is why for my final project, I decided to dive deeper and shed some light into this complex world, because **wine not**?
+Moreover, after watching [Disrupting Wine](https://www.imdb.com/title/tt12645184/) (a documentary about the founder of Vivino), I became very interested and curious about the wine industry. Which is why, for my final project, I decided to dive deeper and shed some light into this complex world, because **wine not**?
 
 
 ## Finding a dataset
@@ -23,7 +23,7 @@ This step is the most important in my opinion, and the one that took me the long
 
 ## Approach
 
-The **main goal** of this project is to predict the rating of a bottle of wine given certain characteristics (see below), in order to help customers when buying wine. 
+The **main goal** of this project is to **predict the rating** of a bottle of wine given certain characteristics (see below), in order to help customers when buying wine. 
 
 Characteristics:
 - Country of origin
